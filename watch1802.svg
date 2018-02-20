@@ -20,16 +20,40 @@
   <defs
      id="defs4591">
     <linearGradient
-       id="linearGradient8088"
+       inkscape:collect="always"
+       id="linearGradient4453">
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="0"
+         id="stop4449" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop4451" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4386"
        inkscape:collect="always">
       <stop
-         id="stop8084"
+         id="stop4382"
          offset="0"
-         style="stop-color:#4d4d4d;stop-opacity:1" />
+         style="stop-color:#666666;stop-opacity:1" />
       <stop
-         id="stop8086"
+         id="stop4384"
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:1" />
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4353">
+      <stop
+         style="stop-color:#666666;stop-opacity:1"
+         offset="0"
+         id="stop4349" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1"
+         offset="1"
+         id="stop4351" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -448,13 +472,54 @@
     </meshgradient>
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient4353"
+       id="linearGradient4355"
+       x1="436.50372"
+       y1="-816.42059"
+       x2="323.69"
+       y2="-743.58002"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       gradientTransform="translate(5.5933594e-6,195.99998)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient4386"
+       id="linearGradient4355-6"
+       x1="438.26755"
+       y1="-814.33356"
+       x2="327.78439"
+       y2="-739.90247"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient8088"
-       id="linearGradient8082"
+       id="linearGradient8082-3"
        x1="342.79001"
        y1="-718.17999"
-       x2="236.36615"
-       y2="-649.96326"
+       x2="244.36615"
+       y2="-655.96326"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient8088"
+       inkscape:collect="always">
+      <stop
+         id="stop8084"
+         offset="0"
+         style="stop-color:#808080;stop-opacity:1" />
+      <stop
+         id="stop8086"
+         offset="1"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4453"
+       id="linearGradient4355-2"
+       x1="436.50372"
+       y1="-816.42059"
+       x2="323.69"
+       y2="-743.58002"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(98.000017,97.999981)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -464,10 +529,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.172287"
-     inkscape:cx="999.89489"
+     inkscape:cx="801.55754"
      inkscape:cy="438.54374"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g1350"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -16348,6 +16413,19 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer28"
+     inkscape:label="month shadow"
+     sodipodi:insensitive="true">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4355-6);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5494-9-6-1"
+       cx="384"
+       cy="-582"
+       r="67.044327"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="month"
      style="display:inline"
@@ -16575,9 +16653,24 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer27"
+     inkscape:label="day shadow"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4355);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5494-9-6"
+       cx="384"
+       cy="-778"
+       r="67.044327"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="day"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fffdf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path5494-56"
@@ -16718,10 +16811,11 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="GMT shadow"
+     style="display:inline"
      sodipodi:insensitive="true">
     <circle
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="path5494-9-6"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8082-3);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5494-9-6-5"
        cx="286"
        cy="-680"
        r="67.044327"
@@ -17167,6 +17261,18 @@
            id="tspan9168-6-9-3-1-9-1-4-8-5-3-1-6-7-9"
            sodipodi:role="line">23</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer29"
+     inkscape:label="seconds shadow">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient4355-2);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5494-9-6-9"
+       cx="482"
+       cy="-680"
+       r="67.044327"
+       transform="rotate(90)" />
   </g>
   <g
      inkscape:groupmode="layer"
