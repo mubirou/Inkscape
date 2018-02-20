@@ -20,6 +20,18 @@
   <defs
      id="defs4591">
     <linearGradient
+       id="linearGradient8088"
+       inkscape:collect="always">
+      <stop
+         id="stop8084"
+         offset="0"
+         style="stop-color:#4d4d4d;stop-opacity:1" />
+      <stop
+         id="stop8086"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient5820">
       <stop
@@ -91,7 +103,11 @@
          offset="0"
          id="stop5388" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         id="stop15526"
+         offset="1"
+         style="stop-color:#808080;stop-opacity:1" />
+      <stop
+         style="stop-color:#cccccc;stop-opacity:0"
          offset="1"
          id="stop5390" />
     </linearGradient>
@@ -103,7 +119,7 @@
          offset="0"
          id="stop5358" />
       <stop
-         style="stop-color:#cccccc;stop-opacity:1"
+         style="stop-color:#cccccc;stop-opacity:0"
          offset="1"
          id="stop5360" />
     </linearGradient>
@@ -193,37 +209,24 @@
        inkscape:collect="always"
        xlink:href="#linearGradient5362"
        id="radialGradient5364"
-       cx="680.04883"
-       cy="793.7428"
-       fx="680.04883"
-       fy="793.7428"
+       cx="680.04535"
+       cy="821.95001"
+       fx="680.04535"
+       fy="821.95001"
        r="239.77303"
-       gradientTransform="matrix(0.96644542,3.1621073e-8,0,0.18690052,22.773831,489.05366)"
+       gradientTransform="matrix(1.0484312,2.0149557e-6,-3.0788546e-7,0.15569168,-32.976682,514.70443)"
        gradientUnits="userSpaceOnUse" />
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5392"
        id="radialGradient5394"
-       cx="680.04883"
-       cy="793.74286"
-       fx="680.04883"
-       fy="793.74286"
+       cx="680.04529"
+       cy="821.94983"
+       fx="680.04535"
+       fy="821.94983"
        r="239.77303"
-       gradientTransform="matrix(0.96644543,4.2446549e-8,0,0.18690051,22.773823,489.05365)"
+       gradientTransform="matrix(1.0484312,3.8330676e-6,-5.9157376e-7,0.15569168,-32.976389,514.70322)"
        gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter5420"
-       x="-0.033251748"
-       width="1.0665035"
-       y="-0.30677419"
-       height="1.6135484">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="6.6427622"
-         id="feGaussianBlur5422" />
-    </filter>
     <radialGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5124"
@@ -323,6 +326,135 @@
        fx="678.56378"
        fy="388.22089"
        r="207.00052" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15522"
+       x="-0.032892501"
+       width="1.065785"
+       y="-0.30345985"
+       height="1.6069197">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="6.5709947"
+         id="feGaussianBlur15524" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter15610"
+       x="-0.10201241"
+       width="1.2040248"
+       y="-0.7643024"
+       height="2.5286048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="7.2477313"
+         id="feGaussianBlur15612" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient4276"
+       gradientUnits="userSpaceOnUse"
+       x="580.01355"
+       y="284.01355">
+      <meshrow
+         id="meshrow7945">
+        <meshpatch
+           id="meshpatch7947">
+          <stop
+             path="c 25.0824,-25.0824  57.2434,-38.7719  90.0526,-41.0685"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop7949" />
+          <stop
+             path="c 35.3105,56.2006  -33.7064,41.964  -43.4927,89.174"
+             style="stop-color:#d0d0d0;stop-opacity:1"
+             id="stop7951" />
+          <stop
+             path="c -54.4447,-3.42697  -41.241,57.9196  -87.959,54.0396"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop7953" />
+          <stop
+             path="c -0.559867,-36.904  13.2399,-73.9855  41.3991,-102.145"
+             style="stop-color:#e4e4e4;stop-opacity:1"
+             id="stop7955" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch7957">
+          <stop
+             path="c 22.3695,-1.56586  45.0403,2.16438  65.9743,11.1907"
+             id="stop7959" />
+          <stop
+             path="c 31.992,45.1243  -2.4742,94.6881  -6.28601,140.886"
+             style="stop-color:#b3b3b3;stop-opacity:0.15"
+             id="stop7961" />
+          <stop
+             path="c -71.9811,-11.0217  -77.4273,-64.789  -103.181,-62.9027"
+             style="stop-color:#cccccc;stop-opacity:1"
+             id="stop7963" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch7965">
+          <stop
+             path="c 15.959,6.88126  30.9086,16.8405  43.9457,29.8778"
+             id="stop7967" />
+          <stop
+             path="c 28.1595,28.1595  41.9592,65.2409  41.3994,102.145"
+             style="stop-color:#ececec;stop-opacity:1"
+             id="stop7969" />
+          <stop
+             path="c -15.6171,1.72188  -58.8644,21.0661  -91.6311,8.8632"
+             style="stop-color:#cdcdcd;stop-opacity:1"
+             id="stop7971" />
+        </meshpatch>
+      </meshrow>
+      <meshrow
+         id="meshrow7973">
+        <meshpatch
+           id="meshpatch7975">
+          <stop
+             path="c -9.40482,45.3694  41.0149,152.457  43.4927,192.936"
+             id="stop7977" />
+          <stop
+             path="c -32.8092,-2.29663  -64.9702,-15.9861  -90.0526,-41.0685"
+             style="stop-color:#e3e3e3;stop-opacity:1"
+             id="stop7979" />
+          <stop
+             path="c -27.0615,-27.0615  -40.8613,-62.3629  -41.3991,-97.8279"
+             style="stop-color:#cccccc;stop-opacity:1"
+             id="stop7981" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch7983">
+          <stop
+             path="c -5.11284,42.9901  28.3085,69.738  6.28571,118.843"
+             id="stop7985" />
+          <stop
+             path="c -20.934,9.02633  -43.6047,12.7565  -65.974,11.1903"
+             style="stop-color:#f2f2f2;stop-opacity:1"
+             id="stop7987" />
+        </meshpatch>
+        <meshpatch
+           id="meshpatch7989">
+          <stop
+             path="c -0.538039,35.4652  -14.3378,70.7665  -41.3994,97.8281"
+             id="stop7991" />
+          <stop
+             path="c -13.0373,13.0373  -27.987,22.9965  -43.946,29.8781"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop7993" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8088"
+       id="linearGradient8082"
+       x1="342.79001"
+       y1="-718.17999"
+       x2="236.36615"
+       y2="-649.96326"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -332,10 +464,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.172287"
-     inkscape:cx="907.53077"
+     inkscape:cx="999.89489"
      inkscape:cy="438.54374"
      inkscape:document-units="px"
-     inkscape:current-layer="layer10"
+     inkscape:current-layer="layer5"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -393,20 +525,20 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <ellipse
-       style="opacity:1;fill:url(#radialGradient5394);fill-opacity:1;stroke:url(#radialGradient5364);stroke-width:0.09370752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5420)"
+       style="opacity:1;fill:url(#radialGradient5394);fill-opacity:1;stroke:url(#radialGradient5364);stroke-width:0.09370752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter15522)"
        id="path5356"
        cx="680.00391"
        cy="619.51483"
        rx="239.72618"
        ry="25.984306"
-       transform="matrix(0.9991504,0,0,1.0265859,0.57773184,-15.575901)" />
+       transform="matrix(0.9991504,0,0,1.0265859,0.57773184,-13.849968)" />
   </g>
   <g
      inkscape:label="original photo"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-284.36216)"
-     style="display:none;opacity:1"
+     style="display:inline;opacity:1"
      sodipodi:insensitive="true">
     <image
        y="260.97964"
@@ -510,14 +642,27 @@
        inkscape:groupmode="layer"
        id="layer22"
        inkscape:label="light3"
-       sodipodi:insensitive="true"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <path
          style="opacity:0.5;fill:url(#linearGradient5561);fill-opacity:1;stroke:#ffffff;stroke-width:1.0447166;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 910.30794,362.35063 c -10e-6,124.87709 -103.23865,221.84481 -233.74679,221.84482 -130.50814,0 -243.13016,-102.08592 -243.13017,-226.96302 -10e-6,-124.87712 119.19997,-227.51274 250.80747,-226.96307 130.50701,0.54507 226.06951,107.20415 226.06949,232.08127 z"
          id="path5552"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sssss" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer15"
+       inkscape:label="shadow"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <path
+         style="opacity:0.5;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter15610)"
+         d="m 774.93455,628.10255 c 3e-5,8.48012 -55.87497,17.91371 -95.91996,17.91371 -40.04499,0 -98.47909,-7.72753 -98.47907,-16.20765 0,-8.48011 33.79635,-9.73482 98.47907,-2.05752 66.67065,-7.6773 95.91996,-8.12865 95.91996,0.35146 z"
+         id="path15531"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1004,7 +1149,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer14"
-     inkscape:label="Guilloché dial 1"
+     inkscape:label="Guilloché dial"
      style="display:inline"
      sodipodi:insensitive="true">
     <path
@@ -15565,6 +15710,19 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="Guilloché dial shadow"
+     style="display:inline;opacity:0.3"
+     sodipodi:insensitive="true">
+    <circle
+       r="141.40222"
+       cy="384.00003"
+       cx="680"
+       id="path4645-3-7-3-4-5-7-3"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#meshgradient4276);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.08335909;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hours &amp; minutes"
      style="display:inline"
@@ -16419,8 +16577,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="day"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fffdf9;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path5494-56"
@@ -16556,6 +16713,19 @@
            id="tspan9168-1-2-5-9-4-1"
            sodipodi:role="line">SAT</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="GMT shadow"
+     sodipodi:insensitive="true">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8082);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path5494-9-6"
+       cx="286"
+       cy="-680"
+       r="67.044327"
+       transform="rotate(90)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17615,7 +17785,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="windshield"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4885);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10219999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path4645-3-7-5"
