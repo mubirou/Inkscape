@@ -9456,9 +9456,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2924017"
-     inkscape:cx="680.00391"
-     inkscape:cy="450.02832"
+     inkscape:zoom="1"
+     inkscape:cx="668.52278"
+     inkscape:cy="388.03901"
      inkscape:document-units="px"
      inkscape:current-layer="layer23"
      showgrid="false"
@@ -9472,10 +9472,11 @@
      inkscape:window-x="1413"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:snap-grids="true"
-     inkscape:snap-page="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-page="false"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0">
+     inkscape:measure-end="0,0"
+     inkscape:snap-to-guides="false">
     <sodipodi:guide
        position="680.00391,772.01954"
        orientation="1,0"
