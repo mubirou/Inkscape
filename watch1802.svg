@@ -23,6 +23,34 @@
   <defs
      id="defs4591">
     <linearGradient
+       id="linearGradient8489"
+       inkscape:collect="always">
+      <stop
+         id="stop8485"
+         offset="0"
+         style="stop-color:#666666;stop-opacity:1" />
+      <stop
+         id="stop8487"
+         offset="1"
+         style="stop-color:#f9f9f9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8406">
+      <stop
+         style="stop-color:#808080;stop-opacity:1"
+         offset="0"
+         id="stop8402" />
+      <stop
+         id="stop8408"
+         offset="0.91416043"
+         style="stop-color:#999999;stop-opacity:1" />
+      <stop
+         style="stop-color:#ececec;stop-opacity:1"
+         offset="1"
+         id="stop8404" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        id="linearGradient5329">
       <stop
@@ -242,6 +270,10 @@
          offset="0"
          style="stop-color:#ffffff;stop-opacity:1" />
       <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.17792296"
+         id="stop8491" />
+      <stop
          id="stop4889"
          offset="1"
          style="stop-color:#ffffff;stop-opacity:0" />
@@ -251,11 +283,11 @@
        xlink:href="#linearGradient4881"
        id="radialGradient4885"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.07586929,0.45702843,-0.51355456,0.08525294,669.31822,-31.315364)"
-       cx="569.29047"
-       cy="291.69141"
-       fx="569.29047"
-       fy="291.69141"
+       gradientTransform="matrix(0.08483071,0.64142795,-0.64461117,0.0852517,702.44465,-136.29189)"
+       cx="561.13513"
+       cy="306.13138"
+       fx="561.13513"
+       fy="306.13138"
        r="202.54454" />
     <radialGradient
        inkscape:collect="always"
@@ -9448,6 +9480,25 @@
         </meshpatch>
       </meshrow>
     </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8406"
+       id="linearGradient8400"
+       x1="554.07928"
+       y1="217.84177"
+       x2="815.51477"
+       y2="539.95599"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.74603271)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8489"
+       id="linearGradient8483"
+       x1="552.66547"
+       y1="226.15434"
+       x2="813.52454"
+       y2="534.8819"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -9456,11 +9507,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="668.52278"
-     inkscape:cy="388.03901"
+     inkscape:zoom="1.2924017"
+     inkscape:cx="680.00391"
+     inkscape:cy="450.02832"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -9706,7 +9757,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="date2"
+     inkscape:label="date3"
      style="display:inline"
      sodipodi:insensitive="true">
     <circle
@@ -10122,7 +10173,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer25"
-     inkscape:label="date1"
+     inkscape:label="date2"
      style="display:inline"
      sodipodi:insensitive="true">
     <circle
@@ -10131,6 +10182,32 @@
        cx="680.00391"
        cy="384"
        r="206.94942" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer34"
+     inkscape:label="date1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient8400);stroke-width:3;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4645-3-7-36-3-3"
+       cx="680"
+       cy="384.74991"
+       r="206.2049" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer36"
+     inkscape:label="date0"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <circle
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient8483);stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="path4645-3-7-36-3-3-2"
+       cx="680"
+       cy="384"
+       r="204.20984" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -24724,8 +24801,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="hours &amp; minutes"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <circle
        r="169.63023"
        cy="384.00003"
