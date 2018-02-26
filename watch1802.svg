@@ -11242,9 +11242,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.7690321"
-     inkscape:cx="655.99365"
-     inkscape:cy="644.75266"
+     inkscape:zoom="1.3704787"
+     inkscape:cx="949.98821"
+     inkscape:cy="433.24922"
      inkscape:document-units="px"
      inkscape:current-layer="layer57"
      showgrid="false"
@@ -11378,7 +11378,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer57"
-     inkscape:label="watchStem light3">
+     inkscape:label="watchStem light3"
+     sodipodi:insensitive="true"
+     style="display:inline">
     <ellipse
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient17376);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.14800262;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter17460);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="path12874"
