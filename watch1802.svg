@@ -24,6 +24,30 @@
      id="defs4591">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient14210">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop14206" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop14208" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14194">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop14190" />
+      <stop
+         style="stop-color:#333333;stop-opacity:0;"
+         offset="1"
+         id="stop14192" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient13860">
       <stop
          style="stop-color:#1a1a1a;stop-opacity:1;"
@@ -11316,6 +11340,50 @@
          stdDeviation="0.10800047"
          id="feGaussianBlur10746-5" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14056"
+       x="-0.019637571"
+       width="1.0392751"
+       y="-0.21585401"
+       height="1.431708">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.1177546"
+         id="feGaussianBlur14058" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14194"
+       id="linearGradient14196"
+       x1="680.01202"
+       y1="125.76501"
+       x2="680.23077"
+       y2="136.61815"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter14202"
+       x="-0.0019708703"
+       width="1.0039417"
+       y="-0.023193387"
+       height="1.0463868">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.11203394"
+         id="feGaussianBlur14204" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14210"
+       id="linearGradient14212"
+       x1="611.86198"
+       y1="135.47156"
+       x2="753.83324"
+       y2="135.47156"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -11324,11 +11392,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.577161"
-     inkscape:cx="682.60818"
-     inkscape:cy="722.01047"
+     inkscape:zoom="1.3704787"
+     inkscape:cx="680.00391"
+     inkscape:cy="425.1502"
      inkscape:document-units="px"
-     inkscape:current-layer="g10056-0"
+     inkscape:current-layer="layer9"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -11770,7 +11838,7 @@
      inkscape:groupmode="layer"
      id="layer59"
      inkscape:label="watchStem shadow10"
-     style="opacity:0.8"
+     style="display:inline;opacity:0.8"
      sodipodi:insensitive="true">
     <path
        style="fill:url(#linearGradient13862);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.05080283px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter13852)"
@@ -12103,6 +12171,32 @@
          id="path1491"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csscccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer61"
+       inkscape:label="light4"
+       style="display:inline;opacity:0.5"
+       sodipodi:insensitive="true">
+      <path
+         style="opacity:1;fill:url(#linearGradient14212);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter14056)"
+         d="m 614.54459,138.66251 c 1.46103,4.01782 29.53626,-2.60469 29.53626,-2.60469 0,0 10.68263,-0.89531 14.15257,-0.71269 3.46994,0.18263 13.47386,-0.15256 20.96163,0.39532 7.48776,0.54789 26.08746,1.23943 29.37477,1.42206 3.28732,0.18262 13.18097,-1.78732 13.18097,-1.78732 0,0 18.99003,6.93988 22.6426,6.93988 3.65257,0 6.75725,-2.19154 6.75725,-2.19154 0,0 -30.34985,-10.93691 -69.27856,-11.47555 -38.92872,-0.53863 -67.32749,10.01453 -67.32749,10.01453 z"
+         id="path14046"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccscsc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer63"
+       inkscape:label="light5"
+       sodipodi:insensitive="true">
+      <path
+         style="opacity:0.5;fill:url(#linearGradient14196);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter14202)"
+         d="m 661.59589,126.74021 c -21.83396,1.22931 -48.22799,8.45035 -48.22799,8.45035 0,0 7.47617,4.2138 19.1998,-0.65606 11.72362,-4.86986 49.30438,-4.62478 49.30438,-4.62478 0,0 29.33811,1.34473 39.64834,2.68043 10.31023,1.33571 11.46076,2.66072 15.53235,3.6728 4.07159,1.01208 11.12289,1.56082 10.89286,1.53847 -0.23003,-0.0224 1.85005,-2.21328 1.85005,-2.21328 0,0 -29.32073,-7.48767 -48.24988,-8.61783 -18.92916,-1.13015 -18.11595,-1.45941 -39.94991,-0.2301 z"
+         id="path14140"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="zczczzzczz"
+         transform="matrix(1,0,0,0.97861753,0,2.9465494)" />
     </g>
   </g>
   <g
@@ -30036,7 +30130,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="windshield1"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <circle
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#radialGradient4885);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.10219999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
