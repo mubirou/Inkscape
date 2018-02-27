@@ -11405,11 +11405,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3704787"
-     inkscape:cx="923.83449"
-     inkscape:cy="425.1502"
+     inkscape:zoom="1"
+     inkscape:cx="974.92234"
+     inkscape:cy="384"
      inkscape:document-units="px"
-     inkscape:current-layer="g18222"
+     inkscape:current-layer="layer64"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -30187,7 +30187,8 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <g
-       id="g18094">
+       id="g18094"
+       inkscape:transform-center-y="-24.735916">
       <circle
          r="5"
          cy="286"
