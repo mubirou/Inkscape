@@ -11576,6 +11576,19 @@
          stdDeviation="0.59741429"
          id="feGaussianBlur8609" />
     </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12469"
+       x="-0.23124862"
+       width="1.4624972"
+       y="-0.016040469"
+       height="1.0320809">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.6343185"
+         id="feGaussianBlur12471" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -11584,11 +11597,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="770.74429"
-     inkscape:cy="401.01603"
+     inkscape:zoom="1.3704787"
+     inkscape:cx="942.85538"
+     inkscape:cy="425.1502"
      inkscape:document-units="px"
-     inkscape:current-layer="layer78"
+     inkscape:current-layer="g12426-0"
      showgrid="false"
      units="px"
      borderlayer="true"
@@ -30722,9 +30735,39 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer79"
+     inkscape:label="date hand shadow"
+     sodipodi:insensitive="true">
+    <g
+       transform="translate(-3.0288072e-7,-4.5882431e-6)"
+       style="display:inline"
+       id="g12426-0"
+       inkscape:transform-center-y="-72.316459"
+       inkscape:transform-center-x="0.050536365">
+      <g
+         id="g12475"
+         inkscape:transform-center-x="0.051712472"
+         inkscape:transform-center-y="-72.357716">
+        <path
+           inkscape:connector-curvature="0"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.4;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:#373e48;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter12469);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           d="m 691.4784,192.41036 c -0.5817,3.77286 -5.14082,5.0117 -8.47852,5.01172 -3.3377,0 -7.8885,-1.22972 -8.47852,-4.9961 -0.13019,4.50059 4.00375,7.49425 8.04688,7.69531 v 178.87696 a 8.0183306,8.0183306 0 0 0 -7.58594,8.00195 8.0183306,8.0183306 0 0 0 7.58594,7.99609 v 25.96485 a 8,8 0 0 0 -7.56836,7.97851 8,8 0 0 0 8,8 8,8 0 0 0 8,-8 8,8 0 0 0 -7.56836,-7.98437 v -25.95313 a 8.0183306,8.0183306 0 0 0 7.58594,-8.00195 8.0183306,8.0183306 0 0 0 -7.58594,-7.99609 V 200.12325 c 4.04089,-0.18769 8.14252,-2.99122 8.04688,-7.71289 z m -8.47852,230.12695 a 6,6 0 0 1 6,6 6,6 0 0 1 -6,6 6,6 0 0 1 -6,-6 6,6 0 0 1 6,-6 z"
+           id="path12312-3" />
+        <circle
+           r="1.8915265"
+           cy="386.99948"
+           cx="682.99951"
+           id="path14215-5-5-5-8-1-0"
+           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e3dbdb;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.02929461;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer78"
      inkscape:label="date hand"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g12426"
        inkscape:transform-center-y="-72.316459"
