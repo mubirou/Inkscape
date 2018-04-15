@@ -9,7 +9,7 @@
 
 |No.|タイトル|内容|.svg|.png|
 |:--:|:--|:--|:--:|:--:|
-|001|watch1802|複雑時計|[●](https://takashinishimura.github.io/Inkscape/watch1802.svg)|[●](https://takashinishimura.github.io/Inkscape/watch1802.png)|
+|001|watch1802|複雑時計|[●](https://takashinishimura.github.io/Inkscape/svg/watch1802.svg)|[●](https://takashinishimura.github.io/Inkscape/png/watch1802.png)|
 |002|xxxxx|xxxxx|－|－|
 ***
 
