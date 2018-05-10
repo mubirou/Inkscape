@@ -9,7 +9,7 @@
 
 |No.|タイトル|内容|.svg|参考サイト|
 |:--:|:--|:--|:--:|:--:|
-|001|[『できるクリエイターInkscape独習ナビ』](#『できるクリエイターInkscape独習ナビ』)|参考書の勉強|[●](#『できるクリエイターInkscape独習ナビ』)|[●](https://amzn.to/2I71o2D)|
+|001|[『できるクリエイターInkscape独習ナビ』](#『できるクリエイターInkscape独習ナビ』)|参考書の勉強|[●](#『できるクリエイターInkscape独習ナビ』)|[●](https://amzn.to/2rE6mZY)|
 |002|[XXX](#XXX)|XXX|－|－|
 ***
 
@@ -17,7 +17,7 @@
 <a name="『できるクリエイターInkscape独習ナビ』"></a>
 # <b>001 できるクリエイターInkscape独習ナビ』</b>
 
-頁数は [『『できるクリエイターInkscape独習ナビ／インプレス』](https://amzn.to/2I71o2D) のページです。  
+頁数は [『できるクリエイターInkscape独習ナビ／株式会社インプレス』](https://amzn.to/2rE6mZY) のページです。  
 .svg ファイルを正確に表示するには [Inkscape](https://inkscape.org/ja/) が必要です。
 
 |No.|内容|頁数|.svg|作成日|
