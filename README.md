@@ -3,7 +3,8 @@
 この項目は、編集中の項目です。
 
 * 制作環境 : Inkscape 0.92.2 以降 / Ubuntu 16.04.4 LTS 以降
-* .svg ファイルを正確に表示するには [Inkscape](https://inkscape.org/ja/) が必要です
+* .svg ファイルを正確に表示するには [Inkscape](https://inkscape.org/ja/) が必要です。
+* [Inkscape 入門](https://github.com/vvestvillage/inkscape/tree/master/introduction)
 * [Inkscape Gallery](https://inkscape.org/en/~vvestvillage)
 
 ### <b>Examples</b>
