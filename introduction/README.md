@@ -22,7 +22,7 @@
 
 |No.|内容|頁数|.svg|作成日|
 |:--|:--|:--:|:--:|:--:|
-|001|パターンに登録|パターン化してフィルやストロークに適用する|[●](https://vvestvillage.github.io/Inkscape/introduction/svg/001_001.svg)|2018-05-11|
+|001|パターン化してフィルやストロークに適用する|117|[●](https://vvestvillage.github.io/Inkscape/introduction/svg/001_001.svg)|2018-05-11|
 |002|XXX|XXX|－|2018-XX-XX|
 
 実行環境：Inkscape 0.92.2、Ubuntu 16.04.4 LTS    
