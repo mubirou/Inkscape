@@ -39,4 +39,4 @@ XXX
 作成者：mubirou  
 作成日：2018年XX月XX日
 
-© 2018 mubirou
+© 2018 夢寐郎

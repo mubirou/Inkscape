@@ -14,4 +14,4 @@
 |003|multimedia-box(final)|メインビジュアル案（最終）|[●](https://mubirou.github.io/Inkscape/svg/003_multimedia-box_final.svg)|－|2018-01-30|
 |004|watch1802|複雑時計（懐中時計）|[●](https://mubirou.github.io/Inkscape/svg/004_watch1802.svg)|[●](https://mubirou.github.io/Inkscape/png/004_watch1802.png)|2018-02-28|
 
-© 2018 mubirou
+© 2018 夢寐郎
