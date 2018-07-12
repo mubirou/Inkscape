@@ -24,7 +24,7 @@
 |002|XXX|XXX|－|2018-XX-XX|
 
 実行環境：Inkscape 0.92.2、Ubuntu 16.04.4 LTS    
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年05月11日  
 更新日：2018年XX月XX日
 
@@ -36,7 +36,7 @@
 XXX
 
 実行環境：Inkscape 0.92.2、Ubuntu 16.04.4 LTS  
-作成者：mubirou  
+作成者：夢寐郎  
 作成日：2018年XX月XX日
 
 © 2018 夢寐郎
