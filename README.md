@@ -15,4 +15,4 @@
 |004|watch1802|複雑時計（懐中時計）|[●](https://mubirou.github.io/Inkscape/svg/004_watch1802.svg)|[●](https://mubirou.github.io/Inkscape/png/004_watch1802.png)|―|2018-02-28|
 |005|lifework|―|[●](https://mubirou.github.io/Inkscape/svg/005_lifework.svg)|―|[●](https://mubirou.github.io/Inkscape/png/005_lifework.pdf)|2019-04-02|
 
-© 2018 夢寐郎
+© 2018-2019 夢寐郎
