@@ -11,7 +11,7 @@
 |:--:|:--|:--|:--:|:--:|:--:|:--:|
 |001|multimedia-box(yellow)|メインビジュアル案（黄）|[●](https://mubirou.github.io/Inkscape/svg/001_multimedia-box_yellow.svg)|－|－|2018-01-23|
 |002|multimedia-box(blue)|メインビジュアル案（青）|[●](https://mubirou.github.io/Inkscape/svg/002_multimedia-box_blue.svg)|－|－|2018-01-23|
-|003|multimedia-box(final)|メインビジュアル案（最終）|[●](https://mubirou.github.io/Inkscape/svg/003_multimedia-box_final.svg)|－|－|2018-01-30|
+|003|Infographic|インフォグラフィック|[●](https://mubirou.github.io/Inkscape/svg/003_Infographic.svg)|－|－|2018-01-30|
 |004|watch1802|複雑時計（懐中時計）|[●](https://mubirou.github.io/Inkscape/svg/004_watch1802.svg)|[●](https://mubirou.github.io/Inkscape/png/004_watch1802.png)|―|2018-02-28|
 |005|mubirou logo|夢寐郎ロゴ|[●](https://mubirou.github.io/Inkscape/svg/005_mubirouLogo.svg)|[●](https://mubirou.github.io/Inkscape/png/005_mubirouLogo.png)|－|2021-05-22|
 
